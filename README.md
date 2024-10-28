@@ -1,1 +1,1 @@
-# practice_CI-CD
+# CI/CDの研究
